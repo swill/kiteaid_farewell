@@ -20,11 +20,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.110.0' # version that is known to work
           extended: true
-
-      - name: Setup Submodules
-        run: git submodule update --init --recursive
 
       - name: Build
         run: hugo --minify
