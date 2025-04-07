@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-KITEAID was envisioned, developed and operated by two friends Stephan and Will. We met as roommates in university and shared a love of the outdoors, ultimately leading to a hobby in kitesufing. Being an engineer and computer scientist, we both enjoyed creating things, improving on what existed and developing new ideas. 
+KITEAID was envisioned, developed and operated by two friends Stephan and Will. We met as roommates in university and shared a love of the outdoors, ultimately leading to a hobby in kitesurfing. Being an engineer and computer scientist, we both enjoyed creating things, improving on what existed and developing new ideas. 
 
 After damaging a kite while on vacation, we set out to find the best repair kit on the market.  To our dismay, the repair options were very limited and produced unsightly repairs. In an effort to solve our own problem, we began testing different techniques on similar materials to understand what would be an effective repair. After extensive testing, we developed our first product, which you all know as the **Sail Repair Kit**. We were not intending to start a business initially, we just knew we had developed something unique and interesting, and wanted to share it with others. As interest grew, KITEAID was born...
 
